@@ -144,7 +144,7 @@
 등급 예측 성능은 낮았지만, 원본 변수 기준으로 클러스터별 평균을 다시 살펴본 결과 아래와 같은 학생 유형 경향 관찰됨.
 
 (성적과의 연관성을 통계적으로 검증한 것은 아님, 변수 평균 비교를 통한 탐색적 관찰)
-<img width="848" height="629" alt="image" src="https://github.com/user-attachments/assets/551eddef-9179-4662-b81c-039c65a865e6" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/551eddef-9179-4662-b81c-039c65a865e6" />
 
 | 군집 | 특징 | 군집 유형 | 
 | --- | --- | --- |
@@ -185,7 +185,7 @@
 
 ## 대시보드
 
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/c7163ba1-de76-4094-8d7c-b3a5f38a710e" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/c7163ba1-de76-4094-8d7c-b3a5f38a710e" />
 
 
 ---
